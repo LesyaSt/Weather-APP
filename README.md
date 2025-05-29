@@ -4,7 +4,7 @@ A simple web application for checking the weather in any city around the world �
 
 ## 🔗 Live Demo
 
-👉 [View Live Version](https://lesyast.github.io/Weather-APP/) *(replace the link if different)*
+👉 [View Live Version](https://lesyast.github.io/Weather-APP/) 
 
 ---
 
